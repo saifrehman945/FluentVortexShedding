@@ -3,6 +3,8 @@
 This repository contains the simulation and analysis of vortex shedding around underwater circular cylinders at high Reynolds number (Re = 10,000). The project demonstrates the dynamics of Vortex-Induced Vibrations (VIV) and evaluates the accuracy and reliability of the RANS Shear-Stress Transport (SST) turbulence model in capturing the VIV phenomenon.
 
 Here is the vorticity with time:
+
+
 https://github.com/user-attachments/assets/4c1806cc-3ece-4534-a7f7-cfc6ec3863ea
 
 
@@ -19,6 +21,8 @@ The results are validated by comparing the pressure coefficients along the cylin
 
 ### Velocity
 Vortex evolution with time:
+
+
 https://github.com/user-attachments/assets/23277ad2-6e03-49ce-ad23-41b7624236f7
 
 ![Velocity](https://github.com/saifrehman945/FluentVortexShedding/blob/Initial_simulations/Results/Images/timestamps.png)
