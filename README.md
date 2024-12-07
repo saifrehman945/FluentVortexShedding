@@ -29,6 +29,8 @@ Vortex evolution with time:
 ### Drag vs Time
 ![Drag](https://github.com/saifrehman945/FluentVortexShedding/blob/Initial_simulations/Results/Images/Cd.png)
 
+### Coeffifient of Pressure
+![Drag](https://github.com/saifrehman945/FluentVortexShedding/blob/Initial_simulations/Results/Images/Cp.png)
 
 ## Key Highlights
 
