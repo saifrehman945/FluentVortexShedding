@@ -3,7 +3,7 @@
 This repository contains the simulation and analysis of vortex shedding around underwater circular cylinders at high Reynolds number (Re = 10,000). The project demonstrates the dynamics of Vortex-Induced Vibrations (VIV) and evaluates the accuracy and reliability of the RANS Shear-Stress Transport (SST) turbulence model in capturing the VIV phenomenon.
 
 Here is the vorticity with time
-![Vorticity](https://github.com/saifrehman945/FluentVortexShedding/blob/Results/Animations/vorticity_vortes_shedding.mp4)
+![Vorticity](https://github.com/saifrehman945/FluentVortexShedding/blob/Initial_simulations/Results/Animations/vorticity_vortes_shedding.mp4)
 
 ## Overview
 
@@ -19,14 +19,14 @@ The results are validated by comparing the pressure coefficients along the cylin
 ### Velocity
 Vortex evolution with time
 
-![Vel_anim](https://github.com/saifrehman945/FluentVortexShedding/blob/Results/Animations/Velocity_vortex_Shedding.mp4)
-![Velocity](https://github.com/saifrehman945/FluentVortexShedding/blob/Results/Images/timestamps.png)
+![Vel_anim](https://github.com/saifrehman945/FluentVortexShedding/blob/Initial_simulations/Results/Animations/Velocity_vortex_Shedding.mp4)
+![Velocity](https://github.com/saifrehman945/FluentVortexShedding/blob/Initial_simulations/Results/Images/timestamps.png)
 
 ### Lift vs Time
-![Lift](https://github.com/saifrehman945/FluentVortexShedding/blob/Results/Images/Cl.png)
+![Lift](https://github.com/saifrehman945/FluentVortexShedding/blob/Initial_simulations/Results/Images/Cl.png)
 
 ### Drag vs Time
-![Drag](https://github.com/saifrehman945/FluentVortexShedding/blob/Results/Images/Cd.png)
+![Drag](https://github.com/saifrehman945/FluentVortexShedding/blob/Initial_simulations/Results/Images/Cd.png)
 
 
 ## Key Highlights
