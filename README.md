@@ -21,12 +21,6 @@ The results are validated by comparing the pressure coefficients along the cylin
 
 ### Velocity
 Vortex evolution with time:
-
-
-https://github.com/user-attachments/assets/84108af5-b1b1-4368-813f-465197cab11e
-
-
-
 ![Velocity](https://github.com/saifrehman945/FluentVortexShedding/blob/Initial_simulations/Results/Images/timestamps.png)
 
 ### Lift vs Time
