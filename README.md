@@ -52,7 +52,7 @@ Vortex evolution with time:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vortex-shedding.git
+   git clone https://github.com/saifrehman945/FluentVortexShedding.git
    cd vortex-shedding
    ```
 
